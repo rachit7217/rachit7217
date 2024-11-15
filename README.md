@@ -1,4 +1,4 @@
-![logo](https://github.com/rachit7217/rachit7217/blob/main/RG%20Data%20anlyst%20Banner.jpg)
+![logo](https://github.com/rachit7217/rachit7217/blob/main/Banner%20with%20photo%20arrow.png)
 
 <h1 align="center">Hi 👋, I'm Rachit Gupta</h1>
 <h3 align="center">An Aspiring Data Analyst Passionate about turning data into actionable insights to drive business growth.</h3>
