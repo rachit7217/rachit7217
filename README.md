@@ -1,36 +1,49 @@
 ![logo](https://github.com/rachit7217/rachit7217/blob/main/Banner%20with%20photo%20arrow.png)
 
 <h1 align="center">Hi 👋, I'm Rachit Gupta</h1>
-<h3 align="center">An Aspiring Data Analyst Passionate about turning data into actionable insights to drive business growth.</h3>
+<h3 align="center">An Aspiring Data Analyst and cloud enthusiasts, Passionate about turning data into actionable insights to drive business growth.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/rachit7217/rachit7217/blob/main/Data-Analyst-in-2023-738x476.jpg">
 
- 📊 Data Analyst | 📈 Visualizing Insights | 🧮 Transforming Data
+ 📊 Cloud Trainee | Data Analyst | 📈 Visualizing Insights | 🧮 Transforming Data
 
-- 🔭 I’m currently working with **Kulturehire as data analyst intern**
+ 🌟 Welcome to my GitHub! I'm a data-driven problem solver currently upskilling in cloud technologies through the **AWS re/Start Program by Tech Mahindra Foundation**. With a background in data analytics and a growing expertise in cloud computing, I’m passionate about turning raw data into impactful stories and scalable solutions.
 
-- 👯 where i am working with a team **project related to GenZ Generation.**
+ ## 🔧 My Current Role
 
-Apart from it i have Created more than **10 projects**  using **excel and Power bi** where i have  **cleaned the data and created interactive Dashboards** that are providing business information like sales, profit, loss etc.  
+🚀 **Cloud Trainee – Tech Mahindra Foundation | AWS re/Start**  
+- Hands-on training in AWS services (EC2, S3, IAM, VPC, CloudWatch)  
+- Practical exposure to **Linux**, **Networking**, **Shell Scripting**, and **AWS CLI**  
+- Deployed and monitored 15+ EC2 instances for real-world use cases  
+
+
+📊 **Former Data Analyst Intern – KultureHire**  
+- Worked on a team project analyzing the **Gen Z Generation's behavior and preferences**  
+- Collaborated on EDA, data cleaning, and dashboard creation
+
+Apart from it i have Created more than **8+ projects**  using **excel and Power bi** where i have  **cleaned the data and created interactive Dashboards** that are providing business information like sales, profit, loss etc.  
 
 My journey in the world of data revolves around extracting valuable insights, creating interactive visualizations, and making data-driven decisions.
 
 💼 Actively looking for an opportunity.
- - ⚡Fun fact **I am a fast learner with practical experience**
+ - ⚡Fun fact -- > “Data is the new oil — but only if you know how to refine it.”
 
-🔍 With a strong foundation in statistics, data wrangling, and data visualization, I dive deep into datasets to uncover hidden patterns and trends. Whether it's 
+🔍 With a strong foundation in excel, data cleaning, and data visualization, I dive deep into datasets to uncover hidden patterns and trends. Whether it's 
     cleaning messy data or performing advanced analyses, I love the challenge of working with data to uncover its full potential.
 
-📊 I'm fluent in a variety of tools and technologies including:
+## 🛠️ Technical Stack
 
-- Data Manipulation: **Python, Pandas, NumPy, Matplotlib, Seaborn**
-- Visualization: **Tableau, Power Bi**
-- Database: **MySQL** 
-- BI Tools: **Microsoft Excel, Google Sheets**
+**Cloud & Infrastructure**  
+☁️ AWS (EC2, S3, IAM, VPC, CloudWatch) • AWS CLI • Linux • Networking  
+
+**Data Analytics & BI**  
+📊 Excel • Google Sheets • SQL (MySQL) • Power BI • Tableau 
+
  - 🌐 Connect with me on LinkedIn ( https://www.linkedin.com/in/rachit-gupta-2b6a69228 ) to discuss all things data, analytics, and beyond.
 
 📬 Feel free to reach out to me at rachitgupta8534@gmail.com for collaboration opportunities, discussions, or just a friendly chat. Let's demystify data together!
 
 Happy analyzing! 🚀📊
+Thanks for visiting! ⭐
 
 <h3 align="left">**Connect with me**:</h3>
 <p align="left">
